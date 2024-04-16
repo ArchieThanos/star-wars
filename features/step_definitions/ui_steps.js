@@ -2,15 +2,15 @@ const axios = require('axios');
 
 
 async function navigateToMoviesListingPage() {
-  // No need for code functions
+  // No need for code functions here
 }
 
 async function sortMoviesByTitle() {
-  // No need for code functions
+  // No need for code functions here
 }
 
 async function verifyLastMovieTitle(movieTitle) {
-  // No need for code functions
+  // No need for code function here
 }
 
 async function selectMovie(movieTitle) {
